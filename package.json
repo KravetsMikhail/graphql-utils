@@ -1,5 +1,5 @@
 {
-  "name": "axi-utils",
+  "name": "graphql-utils",
   "version": "0.0.5",
   "description": "Утилиты генерации graphql значений, парамеров и т.п",
   "main": "index.js",
