@@ -27,11 +27,11 @@ WINDOWS
 2 В командной строке:
 
 ```bash 
-npm install --no-package-lock --no-save axi-utils
+npm install --no-package-lock --no-save graphql-utils
 ```
 
 LINUX (или в bash)
 
 ```bash
-sudo rm -rf node_module/axi-utils && npm install --no-package-lock --no-save axi-utils
+sudo rm -rf node_module/graphql-utils && npm install --no-package-lock --no-save graphql-utils
 ```
